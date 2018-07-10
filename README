@@ -1,2 +1,4 @@
 07/10/2018:  Project goal is to design a basic compiler in C++ from scratch, the language to compile is TBD.
-		- Initial goal is to complete REPL with dummy eval
+		>> Initial goal is to complete REPL with dummy eval
+		>> includes parser for read stage and beginning to build syntax tree
+		>> tree architecture would include recursion and if statements for matching w/ parsed objects 
