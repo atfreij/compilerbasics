@@ -3,10 +3,10 @@
 #include <string>
 
 using namespace std;
-using namespace string;
 
 int main() {
-   
+  cout << "Hello, world!";
+ 
   return 0;
 }
 
